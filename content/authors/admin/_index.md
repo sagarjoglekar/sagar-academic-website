@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sagar Joglekar
+name: Sagar Joglekar, Ph.D.
 
 # Username (this should match the folder name)
 authors:
