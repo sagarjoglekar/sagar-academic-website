@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sagar Joglekar
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Nokia Bell Labs
+  url: "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like to think about stuff, and make stuff
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Complex Networks
+- Computer Vision
+- Computational Social Dynamics
+- Applied ML
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science
+    institution: King's College, London, U.K.
+    year: 2015 - 2019
+  - course: Master of Sciences (M.S) , Major in Signals Processing and Networks
+    institution: University of California, Santa Barbara, C.A. , U.S.A
+    year: 2010 - 2012
+  - course: B.Eng , Electronics Engineering
+    institution: University of Pune, India
+    year: 2004 - 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +48,19 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SagarJoglekar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=kJgQh3MAAAAJ&hl=en%3E
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sagarjoglekar
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the #lines below.
+ 
+- icon: cv
+  icon_pack: ai
+  link: files/sagarj_cv2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +70,13 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
+<p>
+I am mainly interested in projects that deal with quantification of human processes from web scale data using methods from complex networks, machine learning and computer vision. 
+<p> 
+I was a King's India scholar at King's College London, where I worked on my Ph.D. in computer science at the <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx">Department of Informatics</a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. 
+<p>
+I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara - USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune - India, majoring in Electronics engineering .

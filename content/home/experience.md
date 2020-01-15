@@ -17,28 +17,33 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Research Engineer"
+  company = "Infosys research Labs"
+  company_url = "https://www.infosys.com/newsroom/features/2008/SETLabs-innovation-partner.html"
+  location = "Bangalore"
+  date_start = "2008-07-01"
+  date_end = "2010-07-31"
+  description = """Research prototyping and Innovation in multimedia delivery systems"""
+
+[[experience]]
+  title = "Senior Software engineer"
+  company = "Citrix systems"
+  company_url = "https://www.citrix.com/en-gb/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2012-02-01"
+  date_end = "2015-09-01"
+  description = """Development of advanced encoder-decoder protocols and client server libraries for Citrix collaborations products e,g, GotoMeeting,GotoAssist."""
+
+
+[[experience]]
+  title = "Research Scientist"
+  company = "Nokia Bell Labs"
+  company_url = "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
+  location = "Cambridge, UK"
+  date_start = "2019-06-01"
+  date_end = ""
+  description = """Pure research"""
 
 +++
