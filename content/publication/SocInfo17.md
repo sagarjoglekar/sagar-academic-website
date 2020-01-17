@@ -39,7 +39,7 @@ projects = ["modeluserengagement"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine learning", "Social Networks", "Behaviour modelling"]
+tags = ["Deep learning", "Social Networks", "Behaviour modelling"]
 
 # Links (optional).
 url_pdf = ""

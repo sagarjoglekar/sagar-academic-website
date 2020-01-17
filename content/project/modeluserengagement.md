@@ -1,14 +1,14 @@
 +++
-title = "Modelling User engagment with micro-videos"
+title = "About engagment and networked systems"
 date = 2018-04-29T12:50:16+01:00
 draft = false
 weight = 10
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning","Social Networks"]
+tags = ["Deep learning","Social Networks"]
 
 # Project summary to display on homepage.
-summary = "The up and coming formats of micro videos and stories, have allowed a new form of expression for social media users. The format however competes with the other contemporary formats of simple images and videos. The aim was to understand what sets this new format apart, and predict engagement patters using computational methods."
+summary = "There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms. "
 
 # Optional image to display on homepage.
 image_preview = "pipelineVine.png"

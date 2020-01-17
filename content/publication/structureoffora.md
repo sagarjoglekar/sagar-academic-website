@@ -39,7 +39,7 @@ projects = ["modelsocialsupport"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Network Analysis"]
+tags = ["Complex Networks","Social Networks"]
 
 # Links (optional).
 url_pdf = ""

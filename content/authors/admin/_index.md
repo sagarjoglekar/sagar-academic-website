@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like to think about stuff, and make stuff
+bio: Look up, it's full of stars... 
 
 interests:
 - Complex Networks
