@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Bangalore/Pune India"
   date_start = "2008-07-01"
   date_end = "2010-07-31"
-  description = """Research prototyping and Innovation in multimedia delivery systems"""
+  description = """Research, prototyping, and development hand over in state of the art DRM, multimedia security and delivery systems"""
 
 [[experience]]
   title = "Senior Software engineer"
@@ -34,8 +34,16 @@ date_format = "Jan 2006"
   location = "Santa Barbara, California, USA"
   date_start = "2012-02-01"
   date_end = "2015-09-01"
-  description = """Development of advanced encoder-decoder protocols and client server libraries for Citrix collaborations products e,g, GotoMeeting,GotoAssist."""
+  description = """Development of distributed media encoder/decoder protocols for the client/server side libraries used in Citrix collaborations and conferencing products (e,g, GoToMeeting , GoToAssist, GoToWebinar)"""
 
+[[experience]]
+  title = "Head of Research"
+  company = "Firedrop.ai"
+  company_url = "https://firedrop.ai"
+  location = "London, UK"
+  date_start = "2016-04-01"
+  date_end = "2017-06-01"
+  description = """Research and Development. Advisor for all things ML"""
 
 [[experience]]
   title = "Research Scientist"
