@@ -9,7 +9,7 @@ weight = 1000
 tags = ["Computer Vision"]
 
 # Project summary to display on homepage.
-summary = "Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks"
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -30,3 +30,4 @@ image = ""
 caption = ""
 
 +++
+Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks
