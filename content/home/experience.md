@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   location = "Cambridge, UK"
   date_start = "2019-06-01"
   date_end = ""
-  description = """Pure research"""
+  description = """As a member of the Bell labs social dynamics team, I have been working on questions that try to redefine our relationships with data. I primarily work on problems dealing with machine learning and statistical inference with a stress on impacts on healthcare and urbanism. The work generally involves mathematically modelling an off-line phenomenon through the online data that it generates."""
 
 +++

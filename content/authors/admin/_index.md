@@ -55,12 +55,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sagarjoglekar
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sagarjoglekar/
+
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the #lines below.
- 
-- icon: cv
-  icon_pack: ai
-  link: files/sagarj_cv2.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the #lines below. 
+#- icon: cv
+#  icon_pack: ai
+#  link: files/sagarj_cv2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,8 +78,8 @@ user_groups:
 
 I am a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
 <p>
-I am mainly interested in projects that deal with quantification of human processes from web scale data using methods from complex networks, machine learning and computer vision. 
+I am mainly interested in projects that deal with quantification of human processes from web scale data using methods from complex networks, machine learning, and computer vision. 
 <p> 
-I was a King's India scholar at King's College London, where I worked on my Ph.D. in computer science at the <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx">Department of Informatics</a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. 
+I was a King's India scholar at King's College London, where I worked on my <a href="files/PhD_theses_2020.pdf">Ph.D. in computer science </a> at the <a href="https://www.kcl.ac.uk/nms/depts/informatics/index.aspx">Department of Informatics</a>, under the guidance of <a href="http://www.inf.kcl.ac.uk/staff/nrs/">Dr. Nishanth Sastry</a>. 
 <p>
 I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara - USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune - India, majoring in Electronics engineering .
