@@ -15,7 +15,7 @@ role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Expedia Group
-  url: "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
+  url: "https://www.expediagroup.com/home/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Look up, it's full of stars... 
