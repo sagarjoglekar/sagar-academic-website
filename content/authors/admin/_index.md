@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Nokia Bell Labs
+- name: Expedia Group
   url: "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,10 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:sagar.joglekar@kcl.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SagarJoglekar
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@SagarJoglekar
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=kJgQh3MAAAAJ&hl=en%3E
@@ -58,6 +61,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sagarjoglekar/
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the #lines below. 
@@ -75,10 +79,10 @@ user_groups:
 - Visitors
 
 ---
-
-I am a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
+I am a Data Scientist at the Expedia Group working with the Content Data Science team.
+Previously, I was a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>.
 <p>
-I am mainly interested in projects that deal with quantification of human processes from web scale data using methods from complex networks, machine learning, and computer vision. 
+I am mainly interested in research problems that deal with quantification of human processes from web scale data using methods from complex networks, machine learning, and computer vision. 
 <p> 
 I was a King's India scholar at King's College London, where I worked on my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html">Ph.D. in computer science </a> at the <a href="https://kclpure.kcl.ac.uk/portal/en/persons/sagar-joglekar(c955bb8a-f596-4474-98a1-78a1dd9d94ad).html">Department of Informatics</a>, under the guidance of <a href="https://nms.kcl.ac.uk/nishanth.sastry/">Dr. Nishanth Sastry</a>. 
 <p>

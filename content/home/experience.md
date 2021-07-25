@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -51,7 +51,16 @@ date_format = "Jan 2006"
   company_url = "https://www.bell-labs.com/connect/global-locations/cambridge-uk/"
   location = "Cambridge, UK"
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2021-07-20"
   description = """As a member of the Bell labs social dynamics team, I have been working on questions that try to redefine our relationships with data. I primarily work on problems dealing with machine learning and statistical inference with a stress on impacts on healthcare and urbanism. The work generally involves mathematically modelling an off-line phenomenon through the online data that it generates."""
+
+[[experience]]
+  title = "Data Scientist"
+  company = "Expedia Group"
+  company_url = "https://medium.com/expedia-group-tech/tagged/data-science"
+  location = "London, UK"
+  date_start = "2021-07-26"
+  date_end = ""
+  description = """I would be working on Data, Applications, and Content team, working on Expedia group's recommendation, curation, and ranking problems. """
 
 +++
