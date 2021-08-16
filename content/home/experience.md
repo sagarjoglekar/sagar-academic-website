@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 4  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -61,6 +61,6 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2021-07-26"
   date_end = ""
-  description = """I would be working on Data, Applications, and Content team, working on Expedia group's recommendation, curation, and ranking problems. """
+  description = """ I work with the Content Data Science team to develop machine learning algorithms and services that deal with curation, ranking, and retrieval of any and all content hosted on the Expedia Group products. """
 
 +++

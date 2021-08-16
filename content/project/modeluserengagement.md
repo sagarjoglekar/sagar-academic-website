@@ -1,5 +1,5 @@
 +++
-title = "About engagment and networked systems"
+title = "Quantifying engagement in networked systems"
 date = 2018-04-29T12:50:16+01:00
 draft = false
 weight = 50
@@ -29,4 +29,4 @@ image = "pipelineVine.png"
 caption = ""
 
 +++
-There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms. 
+There has been a churn of new platforms exploring new ways to network people, and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. These works explore models, methods, and pipelines to measure how humans adopt and interact with these new and innovative platforms.

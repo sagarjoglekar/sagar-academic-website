@@ -29,4 +29,4 @@ image = "SocialSupport.png"
 caption = ""
 
 +++
-We as a soceity have accepted the internet as an extension of the self. The online disinhibition effect sometimes allows us to open up to strangers online. This means, sometimes, the internet fills the gaps in intimacy, care, and support craved by the millions who are suffering or under distress. In this project, I explore the world of online support forums, using methods from complex networks and NLP to understand the nature of online support.
+We as a soceity have accepted the internet as an extension of the self. The online disinhibition effect sometimes allows us to open up to strangers in order to seek support, or disclose proxies for medical conditions in the process of being social on the networking platforms. In these works, I explored different models in order to capture these concepts, using methods from complex networks and NLP.

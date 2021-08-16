@@ -1,7 +1,7 @@
 +++
 title = "Miscellaneous projects"
 date = 2014-04-29T12:51:55+01:00
-draft = false
+draft = true
 weight = 1000
 
 # Tags: can be used for filtering projects.

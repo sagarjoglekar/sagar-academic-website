@@ -29,12 +29,10 @@ image = "explanation-2000.png"
 caption = ""
 
 +++
-The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the effects of urban life on human physical and mental health. The results have been unanimous: The urban environment has long lasting impacts on our well being.
+The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the effects of the urban life on physical and mental health. The results have been unanimous: The urban environment has long lasting impacts on our well being. The facets of our urban environment that impact on our health and well being are called the urban exposome.
+In these projects, I attempt to quantify this exposome using techiques from deep learning, complex network, GIS, and NLP.
 
-These impacts , albeit sometime negative, are correctable using simple but effective measures. These interventions often come in the form of urban design changes or changes in the way people use the city. In this project, I attempt at quantifying this Urban Exposome, using techiques from deep learning, complex network, GIS and NLP, by designing predictive models of different urban elements and their effect on human health and well being.
-
-
-This work has got some press attention too. Please find some coverages below :
+These works have got some press attention. Please find some coverages below:
 
 Fast Company: [https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it](https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it)
 
