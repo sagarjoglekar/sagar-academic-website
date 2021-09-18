@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Machine Learning Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 - Complex Networks
 - Computer Vision
 - Computational Social Dynamics
-- Applied ML
+- Representation learning
 
 education:
   courses:
@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 
 ---
-I am a Data Scientist at the Expedia Group working with the content data science team. We work on development of platforms and models that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc) for customers using Expedia Group's products.
+I am a Machine Learning Scientist at the Expedia Group working with the content data science team. We work on development of platforms and models that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc) for customers using Expedia Group's products.
 
 Previously, I was a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the <a href="http://social-dynamics.net/team.html">social dynamics team</a>, where I did blue sky research around ideas to quantify human processes from large scale data.
 <p>

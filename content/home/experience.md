@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   description = """As a member of the Bell labs social dynamics team, I have been working on questions that try to redefine our relationships with data. I primarily work on problems dealing with machine learning and statistical inference with a stress on impacts on healthcare and urbanism. The work generally involves mathematically modelling an off-line phenomenon through the online data that it generates."""
 
 [[experience]]
-  title = "Data Scientist"
+  title = "Machine Learning Scientist"
   company = "Expedia Group"
   company_url = "https://medium.com/expedia-group-tech/tagged/data-science"
   location = "London, UK"
