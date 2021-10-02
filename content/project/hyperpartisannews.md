@@ -1,8 +1,8 @@
 +++
 title = "Measuring the partisan web and its effects"
 date = 2018-04-29T12:50:02+01:00
-draft = false
-weight = 40
+draft = true
+weight = 9000
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ['measurements', 'social networks']

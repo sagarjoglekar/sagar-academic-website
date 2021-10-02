@@ -1,8 +1,8 @@
 +++
-title = "Quantifying engagement in networked systems"
+title = "Human behaviour on networked systems"
 date = 2018-04-29T12:50:16+01:00
 draft = false
-weight = 50
+weight = 20
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Deep learning","Social Networks"]
@@ -11,7 +11,7 @@ tags = ["Deep learning","Social Networks"]
 summary = ""
 
 # Optional image to display on homepage.
-image_preview = "pipelineVine.png"
+image_preview = "meetcues.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,8 +25,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "pipelineVine.png"
+image = "kialo.png"
 caption = ""
 
 +++
-There has been a churn of new platforms exploring new ways to network people, and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. These works explore models, methods, and pipelines to measure how humans adopt and interact with these new and innovative platforms.
+Networked systems went through several phases over the past 40 years. In the first phase, the network was a vessel for movement of data. The second processed and stored that data in order to allow users access to services that provide unique value like music, entertainment, and e-commerce. The third was primaily powered by large companies that provided social layers to this trove of services, thereby allowing effective curation and recommendation. 
+The current phase is the one where the distance between society and networked systems has all but vanished. These projects measure, model, and design systems that understand and quantify human behaviour in this fourth phase of networked systems. 

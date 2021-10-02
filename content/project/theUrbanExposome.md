@@ -2,7 +2,7 @@
 title = "Quantifying the Urban Exposome"
 date = 2018-04-29T12:50:16+01:00
 draft = false
-weight = 10
+weight = 30
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Deep learning","Urban Informatics"]
