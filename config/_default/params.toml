@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "dark"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+font = "dark"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -188,7 +188,7 @@ plugins_js  = []
   #   3: Card
   #   4: Citation (publications only)
   post_view = 3
-  publication_view = 2
+  publication_view = 4
   talk_view = 1
 
 ############################
