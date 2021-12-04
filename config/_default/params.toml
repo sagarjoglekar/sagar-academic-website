@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "dark"
+theme = "mr_robot"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -86,21 +86,21 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Broers Building, 21 J J Thomson Avenue", city = "Cambridge", region = "Cambridgeshire", postcode = "CB3 0FA", country = "United Kingdom", country_code = "UK"}
+#address = {street = "Broers Building, 21 J J Thomson Avenue", city = "Cambridge", region = "Cambridgeshire", postcode = "CB3 0FA", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.208855", longitude = "0.091147"}
+# coordinates = {latitude = "52.208855", longitude = "0.091147"}
 
 # Directions for visitors to locate you.
-directions = "Office is on Floor 1"
+# directions = "Office is on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -118,7 +118,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "Sagar_portrait_2021.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "SagarJoglekar"
@@ -178,7 +178,7 @@ plugins_js  = []
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "mla"
+  citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
