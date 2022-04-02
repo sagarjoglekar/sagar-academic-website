@@ -1,10 +1,10 @@
 +++
-title = "The Role of Different Types of Conversations for Meeting Success"
-date = 2021-11-15T12:29:38+01:00
+title = "Predicting Meeting Success With Nuanced Emotions"
+date = 2022-02-17T12:29:38+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ke Zhou" , "Marios Constantinides", "Luca Maria Aiello", "**Sagar Joglekar**" , "Daniele Quercia"]
+authors = ["Ke Zhou" , "Marios Constantinides", "**Sagar Joglekar**" , "Daniele Quercia"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Ke Zhou" , "Marios Constantinides", "Luca Maria Aiello", "**Sagar Jo
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Role of Different Types of Conversations for Meeting Success"
+publication = "Predicting Meeting Success With Nuanced Emotions"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "While current meeting tools are able to capture key analytics from both text and voice (e.g., meeting summarization), they do not often capture important types of conversations (e.g., a heated discussion resulting in a conflict being resolved). We developed a framework that not only analyzes text and voice, but also quantifies fundamental types of conversations. Upon analyzing 72 hours of conversations from 85 real-world virtual meetings together with their 256 self-reported meeting success scores, we found that our quantification of types of conversations (e.g., social support, conflict resolution) was more predictive of meeting success than traditional voice and text analytics. These new techniques will be essential to uncover patterns in online meetings that might otherwise go unnoticed."
+abstract = "While current meeting tools are able to capture key analytics (e.g., transcript and summarization), they do not often capture nuanced emotions (e.g., disappointment and feeling impressed). Given the high number of meetings that were held online during the COVID-19 pandemic, we had an unprecedented opportunity to record extensive meeting data with a newly developed meeting companion application. We analyzed 72 h of conversations from 85 real-world virtual meetings and 256 self-reported meeting success scores. We did so by developing a deep-learning framework that can extract 32 nuanced emotions from meeting transcripts, and by then testing a variety of models predicting meeting success from the extracted emotions. We found that rare emotions (e.g., disappointment and excitement) were generally more predictive of success than more common emotions. This demonstrates the importance of quantifying nuanced emotions to further improve productivity analytics, and, in the long term, employee well-being."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,7 +42,7 @@ projects = ["modeluserengagement"]
 tags = ["Future of work","Behaviour modelling"]
 
 # Links (optional).
-url_pdf = "https://social-dynamics.net/docs/meetings10dims.pdf"
+url_pdf = "http://social-dynamics.net/docs/meetings-emotions.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://ieeexplore.ieee.org/abstract/document/9611071"
+url_source = "https://ieeexplore.ieee.org/abstract/document/9715794"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
