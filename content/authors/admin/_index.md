@@ -86,6 +86,6 @@ I was a King's India scholar at King's College London, where I worked on my <a h
 <p>
 
 <p>
-I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune India, majoring in Electronics engineering <p>
+I have graduated with a Masters of Science (M.S.) degree from the University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from the University of Pune, India, majoring in Electronics engineering <p>
 
-<p>Currently, I am work as a Machine Learning Scientist at the Expedia Group, where I work on development of ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc). <p>
+<p>Currently, I work as a Machine Learning Scientist at the Expedia Group, where I develop ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc).<p>
