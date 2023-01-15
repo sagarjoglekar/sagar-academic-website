@@ -79,12 +79,13 @@ user_groups:
 
 ---
 <p>
-I recently discovered a word which I instanty identified with: "Philomath", or someone who loves learning. I love to work on problems which require building representations of human behaviour from multimodal data sources. I have developed, and used, representation learning methods based on NLP, graphs, and images, to solve such problems. 
+Hello! I am a computer scientist by training, who loves to work on problems which require building representations of human behaviour from multimodal data. I have developed representation learning methods based on NLP, graphs, and images, to solve such problems. 
 <p> 
 
 I was a King's India scholar at King's College London, where I worked on my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html">Ph.D. in computer science </a> at the <a href="https://kclpure.kcl.ac.uk/portal/en/persons/sagar-joglekar(c955bb8a-f596-4474-98a1-78a1dd9d94ad).html">Department of Informatics</a>, under the guidance of <a href="https://nms.kcl.ac.uk/nishanth.sastry/">Dr. Nishanth Sastry</a>. 
 <p>
 
-I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune India, majoring in Electronics engineering 
+<p>
+I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune India, majoring in Electronics engineering <p>
 
-Currently, I am a Machine Learning Scientist at the Expedia Group, where I work on development of ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc).
+<p>Currently, I am work as a Machine Learning Scientist at the Expedia Group, where I work on development of ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc). <p>
