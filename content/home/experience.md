@@ -60,7 +60,17 @@ date_format = "Jan 2006"
   company_url = "https://medium.com/expedia-group-tech/tagged/data-science"
   location = "London, UK"
   date_start = "2021-07-26"
-  date_end = ""
+  date_end = "2023-09-30"
   description = """ I work with the Content Data Science team to develop machine learning algorithms and services that deal with curation, ranking, and retrieval of any and all content hosted on the Expedia Group products. """
+
+[[experience]]
+  title = "Senior Machine Learning Scientist"
+  company = "Intercom"
+  company_url = "https://www.intercom.com/"
+  location = "London, UK"
+  date_start = "2023-10-01"
+  date_end = ""
+  description = """ Help research and build the next generation customer engagement software powered by AI. """
+
 
 +++

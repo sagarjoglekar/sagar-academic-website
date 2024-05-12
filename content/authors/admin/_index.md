@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Machine Learning Scientist
+role: Senior Machine Learning Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Expedia Group
-  url: "https://www.expediagroup.com/home/default.aspx"
+- name: Intercom
+  url: "https://www.intercom.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Fallible philomath 
@@ -88,4 +88,4 @@ I was a King's India scholar at King's College London, where I worked on my <a h
 <p>
 I have graduated with a Masters of Science (M.S.) degree from the University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from the University of Pune, India, majoring in Electronics engineering <p>
 
-<p>Currently, I work as a Machine Learning Scientist at the Expedia Group, where I develop ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc).<p>
+<p>Currently, I work as a Machine Learning Scientist at Intercom, where I research and help build the next generation customer engagement software powered by the cutting edge AI tech.<p>
