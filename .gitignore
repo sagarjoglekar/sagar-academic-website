@@ -1,6 +1,6 @@
 # IDEs
 .idea/
-
+.claude/
 # Hugo
 resources/
 public/
