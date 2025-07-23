@@ -4,16 +4,26 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-
-# Primary
+# Primary colors - Professional Material Design inspired palette
 primary = "#2962ff"
+primary_dark = "#0039cb"
+primary_light = "#5983ff"
 
-# Menu
-menu_primary = "#fff"
+# Menu styling - Clean and professional
+menu_primary = "rgba(255, 255, 255, 0.95)"
 menu_text = "#34495e"
 menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_title = "#2c3e50"
 
-# Home sections
+# Home sections - Subtle alternating background
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "rgb(249, 250, 251)"
+
+# Additional professional colors
+accent = "#f8f9fa"
+text_color = "#2c3e50"
+text_muted = "#6c757d"
+border_color = "#e9ecef"
+success = "#28a745"
+warning = "#ffc107"
+danger = "#dc3545"

@@ -15,7 +15,7 @@ role: Senior Machine Learning Scientist
 # Organizations/Affiliations
 organizations:
 - name: Intercom
-  url: "https://www.intercom.com/"
+  url: "https://fin.ai/research/author/sagarjoglekar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Fallible philomath 
@@ -79,13 +79,17 @@ user_groups:
 
 ---
 <p>
-Hello! I am a computer scientist by training, who loves to work on problems which require building representations of human behaviour from multimodal data. I have developed representation learning methods based on NLP, graphs, and images, to solve such problems. 
-<p> 
-
-I was a King's India scholar at King's College London, where I worked on my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html">Ph.D. in computer science </a> at the <a href="https://kclpure.kcl.ac.uk/portal/en/persons/sagar-joglekar(c955bb8a-f596-4474-98a1-78a1dd9d94ad).html">Department of Informatics</a>, under the guidance of <a href="https://nms.kcl.ac.uk/nishanth.sastry/">Dr. Nishanth Sastry</a>. 
-<p>
+I am a Senior Machine Learning Scientist with over 10 years of experience bridging cutting-edge academic research and high-impact industrial applications. My expertise spans deep learning, computer vision, natural language processing, and complex networks, with a focus on developing novel methods that quantify human behavior from multimodal data.
+</p>
 
 <p>
-I have graduated with a Masters of Science (M.S.) degree from the University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from the University of Pune, India, majoring in Electronics engineering <p>
+Currently, I work as a Senior Machine Learning Scientist at Intercom's A.I. Group, where I lead initiatives that bring cutting-edge academic research into production systems. My work focuses on advancing customer support solutions through rigorous A/B testing and the development of scalable ML architectures.
+</p>
 
-<p>Currently, I work as a Machine Learning Scientist at Intercom, where I research and help build the next generation customer engagement software powered by the cutting edge AI tech.<p>
+<p>
+I completed my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html">Ph.D. in Computer Science</a> at King's College London as a King's India Scholar, under the supervision of <a href="https://nms.kcl.ac.uk/nishanth.sastry/">Dr. Nishanth Sastry</a>. My doctoral research focused on quantifying signals from human behaviors driven by subjective perceptions, using data and AI to improve the world around us.
+</p>
+
+<p>
+Throughout my career at organizations including Nokia Bell Labs, Expedia Group, and Citrix Systems, I have authored over 40 scientific publications in top-tier venues (Nature, WWW, ICWSM, CSCW), hold multiple patents, and have built both R&D solutions and production systems that solve real-world problems at scale.
+</p>

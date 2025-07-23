@@ -1,11 +1,11 @@
 # Font style metadata
 name = "my_font"
 
-# Optional Google font URL
-google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
+# Optional Google font URL - Modern professional fonts
+google_fonts = "Inter:300,400,500,600,700|Charter:400,400i,700,700i|JetBrains+Mono:400,500,600"
 
 # Font families
-heading_font = "Lora"
-body_font = "Roboto"
-nav_font = "Lora"
-mono_font = "Cutive Mono"
+heading_font = "Charter"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "JetBrains Mono"
